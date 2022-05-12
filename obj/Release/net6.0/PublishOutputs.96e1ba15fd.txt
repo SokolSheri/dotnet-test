@@ -1,0 +1,17 @@
+/Users/ssheri/Projects/TodoApi/published/TodoApi
+/Users/ssheri/Projects/TodoApi/published/appsettings.Development.json
+/Users/ssheri/Projects/TodoApi/published/appsettings.json
+/Users/ssheri/Projects/TodoApi/published/TodoApi.dll
+/Users/ssheri/Projects/TodoApi/published/TodoApi.deps.json
+/Users/ssheri/Projects/TodoApi/published/TodoApi.runtimeconfig.json
+/Users/ssheri/Projects/TodoApi/published/TodoApi.pdb
+/Users/ssheri/Projects/TodoApi/published/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/ssheri/Projects/TodoApi/published/Microsoft.EntityFrameworkCore.dll
+/Users/ssheri/Projects/TodoApi/published/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ssheri/Projects/TodoApi/published/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/ssheri/Projects/TodoApi/published/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ssheri/Projects/TodoApi/published/Microsoft.Extensions.Caching.Memory.dll
+/Users/ssheri/Projects/TodoApi/published/Microsoft.OpenApi.dll
+/Users/ssheri/Projects/TodoApi/published/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ssheri/Projects/TodoApi/published/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ssheri/Projects/TodoApi/published/Swashbuckle.AspNetCore.SwaggerUI.dll
